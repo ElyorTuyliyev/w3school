@@ -1,0 +1,280 @@
+/* nav style start */
+body {
+  margin: 0 auto;
+}
+.contenir {
+  max-width: 1760px;
+  margin: 0 auto;
+}
+.fixed-nav {
+  position: fixed;
+}
+.nav-home {
+  margin-top: -10px;
+}
+.img-w3school {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 10px;
+  float: left;
+}
+.Tutorials1 {
+  padding: 20px 20px;
+  background-color: white;
+  color: #04aa6d;
+  font-size: 15px;
+  border: none;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.Tutorials {
+  padding: 20px 20px;
+  background-color: white;
+  color: #04aa6d;
+  font-size: 15px;
+  border: none;
+  margin-top: 10px;
+}
+.Tutorials:hover {
+  padding: 20px 20px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 15px;
+  border: none;
+}
+.Tutorials1:hover {
+  padding: 20px 20px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 15px;
+  border: none;
+}
+.search-home {
+  height: 35px;
+  border-radius: 30px;
+  border: 1px solid rgb(184, 178, 178);
+  padding-left: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+}
+.search-home:hover {
+  outline: 5px solid green;
+}
+.glass {
+  position: relative;
+  left: -32px;
+}
+.jobs {
+  color: #04aa6d;
+  margin-left: 180px;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.jobs:hover {
+  color: #000000;
+  margin-left: 180px;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Spaces {
+  color: #04aa6d;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.Spaces:hover {
+  color: #030303;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Cerrified {
+  color: #04aa6d;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.Cerrified:hover {
+  color: #030303;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Sign {
+  color: #ffffff;
+  padding: 14px 25px;
+  border-radius: 30px;
+  background-color: #04aa6d;
+  border: none;
+  font-size: 20x;
+  position: relative;
+  left: 20px;
+}
+.Sign:hover {
+  background-color: #389573;
+}
+.Log {
+  color: #000000;
+  padding: 14px 25px;
+  border-radius: 0 30px 30px 0;
+  background-color: rgb(228, 228, 238);
+  border: none;
+  font-size: 22x;
+  margin-left: -5px;
+}
+.Log:hover {
+  background-color: #249068;
+}
+/* /nav style finish  */
+/* main nav start */
+.main-nav {
+  width: 100%;
+  height: 35px;
+  background-color: #282a35;
+}
+.html {
+  margin-top: 3px;
+  padding: 8px 20px;
+  color: white;
+  background-color: #282a35;
+  border: none;
+}
+.html:hover {
+  margin-top: 3px;
+  padding: 8px 20px;
+  color: white;
+  background-color: #000000;
+  border: none;
+}
+/* /main nav  finish*/
+
+/* aside */
+.w3schol-home-aside {
+  width: 220px;
+  height: 87vh;
+  background-color: #e7e9eb;
+  float: left;
+}
+.go {
+  width: 220px;
+  height: 650px;
+  overflow-y: scroll;
+}
+.aside-111 {
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+.h1h {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+.html1 {
+  display: block;
+  text-decoration: none;
+  padding: 8px 0px 8px 10px;
+
+  border: none;
+  background-color: #e7e9eb;
+}
+.html1:hover {
+  background-color: #cad1d7;
+  padding: 8px 50px 8px 10px;
+}
+/* /aside */
+/* main */
+.img-fanta {
+  background-color: red;
+
+  margin-left: 180px;
+  margin-top: 20px;
+  width: 750px;
+}
+.fa-xmark {
+  color: blue;
+  position: relative;
+  left: -20px;
+  top: -80px;
+}
+.Tutorial-h1 {
+  font-size: 45px;
+  margin-left: 250px;
+}
+.Home-button {
+  padding: 12px 16px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border: none;
+}
+.Next-button {
+  padding: 12px 16px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin-left: 850px;
+  border-radius: 5px;
+  border: none;
+}
+.text-home {
+  width: 1300px;
+  height: 300px;
+  background-color: #d9eee1;
+  margin-top: 20px;
+}
+.text-go {
+  margin-left: 250px;
+}
+.p-text {
+  padding-top: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+}
+.Stady {
+  padding: 12px 20px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 17px;
+  border-radius: 5px;
+  border: none;
+}
+.Watch-home {
+  margin-top: 20px;
+}
+.Watch {
+  padding: 12px 20px;
+  background-color: #000000;
+  color: white;
+  font-size: 17px;
+  border-radius: 5px;
+  border: none;
+}
+.naw {
+  padding: 10px 20px;
+  border-radius: 30px;
+  background-color: #fff4a3;
+  border: none;
+  position: relative;
+  left: -295px;
+  top: -15px;
+  transform: rotate(-30deg);
+}

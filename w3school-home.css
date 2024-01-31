@@ -1,0 +1,213 @@
+/* nav style start */
+body {
+  margin: 0 auto;
+}
+.contenir {
+  max-width: 1760px;
+  margin: 0 auto;
+}
+.fixed-nav {
+  position: fixed;
+}
+.nav-home {
+  margin-top: -10px;
+}
+.img-w3school {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 10px;
+  float: left;
+}
+.Tutorials1 {
+  padding: 20px 20px;
+  background-color: white;
+  color: #04aa6d;
+  font-size: 15px;
+  border: none;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.Tutorials {
+  padding: 20px 20px;
+  background-color: white;
+  color: #04aa6d;
+  font-size: 15px;
+  border: none;
+  margin-top: 10px;
+}
+.Tutorials:hover {
+  padding: 20px 20px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 15px;
+  border: none;
+}
+.Tutorials1:hover {
+  padding: 20px 20px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 15px;
+  border: none;
+}
+.search-home {
+  height: 35px;
+  border-radius: 30px;
+  border: 1px solid rgb(184, 178, 178);
+  padding-left: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+}
+.search-home:hover {
+  outline: 5px solid green;
+}
+.glass {
+  position: relative;
+  left: -32px;
+}
+.jobs {
+  color: #04aa6d;
+  margin-left: 180px;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.jobs:hover {
+  color: #000000;
+  margin-left: 180px;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Spaces {
+  color: #04aa6d;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.Spaces:hover {
+  color: #030303;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Cerrified {
+  color: #04aa6d;
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  font-size: 20x;
+}
+.Cerrified:hover {
+  color: #030303;
+  padding: 15px 25px;
+  border-radius: 30px;
+  background-color: rgb(241, 238, 238);
+  border: none;
+  font-size: 20x;
+}
+.Sign {
+  color: #ffffff;
+  padding: 14px 25px;
+  border-radius: 30px;
+  background-color: #04aa6d;
+  border: none;
+  font-size: 20x;
+  position: relative;
+  left: 20px;
+}
+.Sign:hover {
+  background-color: #389573;
+}
+.Log {
+  color: #000000;
+  padding: 14px 25px;
+  border-radius: 0 30px 30px 0;
+  background-color: rgb(228, 228, 238);
+  border: none;
+  font-size: 22x;
+  margin-left: -5px;
+}
+.Log:hover {
+  background-color: #249068;
+}
+/* /nav style finish  */
+/* main nav start */
+.main-nav {
+  width: 100%;
+  height: 35px;
+  background-color: #282a35;
+}
+.html {
+  margin-top: 3px;
+  padding: 8px 20px;
+  color: white;
+  background-color: #282a35;
+  border: none;
+}
+.html:hover {
+  margin-top: 3px;
+  padding: 8px 20px;
+  color: white;
+  background-color: #000000;
+  border: none;
+}
+.img1111 {
+  width: 100%;
+  height: 90vh;
+  background-color: #282a35;
+}
+.Learn {
+  color: #fff4a3;
+  font-size: 80px;
+  text-align: center;
+  padding-top: 50px;
+}
+.text11 {
+  color: #fff4a3;
+  text-align: center;
+  font-size: 25px;
+}
+.Search {
+  margin-left: 530px;
+  width: 400px;
+  padding-left: 40px;
+  font-size: 15px;
+  height: 50px;
+  border-radius: 30px 0px 0px 30px;
+  border: none;
+  outline: none;
+}
+.w11111111 {
+  background-color: #04aa6d;
+  border: none;
+  border-radius: 0px 30px 30px 0px;
+  height: 50px;
+  position: relative;
+  top: 2px;
+  left: -50px;
+}
+.glass-home {
+  font-size: 20px;
+  color: white;
+  width: 80px;
+}
+.Begin-home {
+  margin-top: 50px;
+}
+.Begin {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  margin-left: 600px;
+}
+/* /main nav  finish*/
