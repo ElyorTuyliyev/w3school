@@ -9,6 +9,11 @@ body {
 .fixed-nav {
   position: fixed;
 }
+
+a {
+  text-decoration: none;
+}
+
 .nav-home {
   margin-top: -10px;
 }
