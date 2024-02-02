@@ -17,6 +17,13 @@ a {
 .nav-home {
   margin-top: -10px;
 }
+
+.main__nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .img-w3school {
   width: 40px;
   height: 40px;

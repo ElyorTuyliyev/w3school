@@ -121,6 +121,7 @@ a {
   border: none;
   font-size: 20x;
 }
+
 .Sign {
   color: #ffffff;
   padding: 14px 25px;
@@ -153,6 +154,13 @@ a {
   height: 35px;
   background-color: #282a35;
 }
+
+.main__nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .html {
   margin-top: 3px;
   padding: 8px 20px;

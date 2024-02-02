@@ -6,6 +6,9 @@ body {
   max-width: 1760px;
   margin: 0 auto;
 }
+* {
+  box-sizing: border-box;
+}
 .fixed-nav {
   position: fixed;
 }
@@ -153,6 +156,13 @@ a {
   height: 35px;
   background-color: #282a35;
 }
+
+.main__nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .html {
   margin-top: 3px;
   padding: 8px 20px;
